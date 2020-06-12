@@ -4,6 +4,19 @@ This is an in-class project from cs 179.
 
 This is a skill estimation from starcraft data. 
 
+External package we used: 
+numpy
+pystan
+matplotlib
+pickle
+
+all the package above were installed through pip
+
+pyGM
+
+pyGM libracy was provided by professor Alexander Ihler
+https://github.com/ihler/pyGM
+
 
 ## Potential Ideas 
 
